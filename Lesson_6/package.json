@@ -1,0 +1,21 @@
+{
+  "name": "lesson_6",
+  "version": "1.0.0",
+  "description": "this is my testing project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "index.js",
+    "nodemon"
+  ],
+  "author": "imran hossain",
+  "license": "ISC",
+  "dependencies": {
+    "random-fruits-name": "^1.9.5",
+    "random-movie": "^1.4.3",
+    "random-movie-names": "^1.0.2"
+  }
+}
